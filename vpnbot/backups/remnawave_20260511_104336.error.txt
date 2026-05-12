@@ -1,0 +1,2 @@
+Remnawave backup attempt at 20260511_104336 failed: API unavailable or returned error.
+base_url=https://your-panel.example.com
