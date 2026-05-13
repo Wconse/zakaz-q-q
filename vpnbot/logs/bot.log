@@ -1,0 +1,87 @@
+2026-05-13 18:28:25 [INFO] __main__: Starting VPN bot...
+2026-05-13 18:28:26 [INFO] __main__: Bot commands and menu button registered
+2026-05-13 18:28:26 [INFO] __main__: Bot polling started
+2026-05-13 18:28:26 [INFO] aiogram.dispatcher: Start polling
+2026-05-13 18:28:26 [INFO] app.scheduler: Scheduler started
+2026-05-13 18:28:26 [INFO] app.services.payment_processor: Poll YuKassa pending=1
+2026-05-13 18:28:26 [INFO] aiogram.dispatcher: Run polling for bot @vpnn_botts_bot id=8640195811 - 'vpnn_botts'
+2026-05-13 18:28:27 [INFO] app.services.payment_processor: YuKassa status external_id=3196d652-000f-5000-b000-19c460501b34 -> succeeded
+2026-05-13 18:28:27 [INFO] httpx: HTTP Request: POST https://panel.ghostroute.site/api/users "HTTP/1.1 201 Created"
+2026-05-13 18:28:27 [INFO] app.services.remnawave: Remnawave user created: TG_869598289 (uuid=2c5f9e80-ad87-414b-83f6-36afee255068, sub_url=https://sub.ghostroute.site/La8P6ZuHzcX33KmQ)
+2026-05-13 18:28:27 [INFO] app.services.subscription: Remnawave user created: TG_869598289 → 2c5f9e80-ad87-414b-83f6-36afee255068
+2026-05-13 18:28:28 [INFO] app.services.payment_processor: Payment ff27ccee-089f-4015-a2b9-9e1c959f0b66 processed: user TG_869598289, plan=standard, days=30
+2026-05-13 18:28:28 [INFO] app.services.payment_processor: Poll CryptoBot pending=8
+2026-05-13 18:28:28 [INFO] app.services.payment_processor: CryptoBot status external_id=51393292 -> active
+2026-05-13 18:28:29 [INFO] app.services.payment_processor: CryptoBot status external_id=51393382 -> active
+2026-05-13 18:28:29 [INFO] app.services.payment_processor: CryptoBot status external_id=51393625 -> active
+2026-05-13 18:28:29 [INFO] app.services.payment_processor: CryptoBot status external_id=51394050 -> active
+2026-05-13 18:28:30 [INFO] app.services.payment_processor: CryptoBot status external_id=51397506 -> active
+2026-05-13 18:28:30 [INFO] app.services.payment_processor: CryptoBot status external_id=51408057 -> active
+2026-05-13 18:28:31 [INFO] app.services.payment_processor: CryptoBot status external_id=51416204 -> active
+2026-05-13 18:28:31 [INFO] app.services.payment_processor: CryptoBot status external_id=51457026 -> active
+2026-05-13 18:28:31 [INFO] app.scheduler: Database backup created: backups/bot_20260513_182831.db
+2026-05-13 18:28:31 [INFO] app.scheduler: Pruned old backup: backups/bot_20260513_115101.db
+2026-05-13 18:28:31 [INFO] httpx: HTTP Request: GET https://panel.ghostroute.site/api/users?start=0&size=1000 "HTTP/1.1 200 OK"
+2026-05-13 18:28:31 [INFO] app.scheduler: Remnawave backup created: backups/remnawave_20260513_182831.json (29 users)
+2026-05-13 18:28:31 [INFO] app.scheduler: Pruned old Remnawave backup: backups/remnawave_20260513_115101.error.txt
+2026-05-13 18:28:39 [INFO] aiogram.event: Update id=388965348 is handled. Duration 490 ms by bot id=8640195811
+2026-05-13 18:28:41 [INFO] aiogram.event: Update id=388965349 is handled. Duration 433 ms by bot id=8640195811
+2026-05-13 18:28:48 [INFO] aiogram.event: Update id=388965350 is handled. Duration 282 ms by bot id=8640195811
+2026-05-13 18:28:49 [INFO] aiogram.event: Update id=388965351 is handled. Duration 276 ms by bot id=8640195811
+2026-05-13 18:28:50 [INFO] aiogram.event: Update id=388965352 is handled. Duration 271 ms by bot id=8640195811
+2026-05-13 18:28:52 [INFO] aiogram.event: Update id=388965353 is handled. Duration 996 ms by bot id=8640195811
+2026-05-13 18:29:31 [INFO] app.services.payment_processor: Poll YuKassa pending=1
+2026-05-13 18:29:32 [INFO] app.services.payment_processor: YuKassa status external_id=3196d6a4-000f-5001-9000-1cfb72d36869 -> succeeded
+2026-05-13 18:29:32 [INFO] httpx: HTTP Request: POST https://panel.ghostroute.site/api/users "HTTP/1.1 201 Created"
+2026-05-13 18:29:32 [INFO] app.services.remnawave: Remnawave user created: TG_1169279425 (uuid=9ffaa0fa-e573-492e-be16-ca891fcacfe7, sub_url=https://sub.ghostroute.site/H0BJLoDbxce_HRrF)
+2026-05-13 18:29:32 [INFO] app.services.subscription: Remnawave user created: TG_1169279425 → 9ffaa0fa-e573-492e-be16-ca891fcacfe7
+2026-05-13 18:29:33 [INFO] app.services.payment_processor: Payment 691f4ee3-e791-4e83-82c3-28b3e3926aca processed: user TG_1169279425, plan=extended, days=365
+2026-05-13 18:29:33 [INFO] app.services.payment_processor: Poll CryptoBot pending=8
+2026-05-13 18:29:33 [INFO] app.services.payment_processor: CryptoBot status external_id=51393292 -> active
+2026-05-13 18:29:34 [INFO] app.services.payment_processor: CryptoBot status external_id=51393382 -> active
+2026-05-13 18:29:34 [INFO] app.services.payment_processor: CryptoBot status external_id=51393625 -> active
+2026-05-13 18:29:34 [INFO] app.services.payment_processor: CryptoBot status external_id=51394050 -> active
+2026-05-13 18:29:35 [INFO] app.services.payment_processor: CryptoBot status external_id=51397506 -> active
+2026-05-13 18:29:35 [INFO] app.services.payment_processor: CryptoBot status external_id=51408057 -> active
+2026-05-13 18:29:35 [INFO] app.services.payment_processor: CryptoBot status external_id=51416204 -> active
+2026-05-13 18:29:36 [INFO] app.services.payment_processor: CryptoBot status external_id=51457026 -> active
+2026-05-13 18:30:36 [INFO] app.services.payment_processor: Poll YuKassa pending=0
+2026-05-13 18:30:36 [INFO] app.services.payment_processor: Poll CryptoBot pending=8
+2026-05-13 18:30:36 [INFO] app.services.payment_processor: CryptoBot status external_id=51393292 -> active
+2026-05-13 18:30:37 [INFO] app.services.payment_processor: CryptoBot status external_id=51393382 -> active
+2026-05-13 18:30:37 [INFO] app.services.payment_processor: CryptoBot status external_id=51393625 -> active
+2026-05-13 18:30:37 [INFO] app.services.payment_processor: CryptoBot status external_id=51394050 -> active
+2026-05-13 18:30:38 [INFO] app.services.payment_processor: CryptoBot status external_id=51397506 -> active
+2026-05-13 18:30:38 [INFO] app.services.payment_processor: CryptoBot status external_id=51408057 -> active
+2026-05-13 18:30:38 [INFO] app.services.payment_processor: CryptoBot status external_id=51416204 -> active
+2026-05-13 18:30:39 [INFO] app.services.payment_processor: CryptoBot status external_id=51457026 -> active
+2026-05-13 18:31:39 [INFO] app.services.payment_processor: Poll YuKassa pending=0
+2026-05-13 18:31:39 [INFO] app.services.payment_processor: Poll CryptoBot pending=8
+2026-05-13 18:31:39 [INFO] app.services.payment_processor: CryptoBot status external_id=51393292 -> active
+2026-05-13 18:31:40 [INFO] app.services.payment_processor: CryptoBot status external_id=51393382 -> active
+2026-05-13 18:31:40 [INFO] app.services.payment_processor: CryptoBot status external_id=51393625 -> active
+2026-05-13 18:31:40 [INFO] app.services.payment_processor: CryptoBot status external_id=51394050 -> active
+2026-05-13 18:31:41 [INFO] app.services.payment_processor: CryptoBot status external_id=51397506 -> active
+2026-05-13 18:31:41 [INFO] app.services.payment_processor: CryptoBot status external_id=51408057 -> active
+2026-05-13 18:31:41 [INFO] app.services.payment_processor: CryptoBot status external_id=51416204 -> active
+2026-05-13 18:31:42 [INFO] app.services.payment_processor: CryptoBot status external_id=51457026 -> active
+2026-05-13 18:32:42 [INFO] app.services.payment_processor: Poll YuKassa pending=0
+2026-05-13 18:32:42 [INFO] app.services.payment_processor: Poll CryptoBot pending=8
+2026-05-13 18:32:42 [INFO] app.services.payment_processor: CryptoBot status external_id=51393292 -> active
+2026-05-13 18:32:43 [INFO] app.services.payment_processor: CryptoBot status external_id=51393382 -> active
+2026-05-13 18:32:43 [INFO] app.services.payment_processor: CryptoBot status external_id=51393625 -> active
+2026-05-13 18:32:43 [INFO] app.services.payment_processor: CryptoBot status external_id=51394050 -> active
+2026-05-13 18:32:44 [INFO] app.services.payment_processor: CryptoBot status external_id=51397506 -> active
+2026-05-13 18:32:44 [INFO] app.services.payment_processor: CryptoBot status external_id=51408057 -> active
+2026-05-13 18:32:44 [INFO] app.services.payment_processor: CryptoBot status external_id=51416204 -> active
+2026-05-13 18:32:45 [INFO] app.services.payment_processor: CryptoBot status external_id=51457026 -> active
+2026-05-13 18:33:45 [INFO] app.services.payment_processor: Poll YuKassa pending=0
+2026-05-13 18:33:45 [INFO] app.services.payment_processor: Poll CryptoBot pending=8
+2026-05-13 18:33:45 [INFO] app.services.payment_processor: CryptoBot status external_id=51393292 -> active
+2026-05-13 18:33:46 [INFO] app.services.payment_processor: CryptoBot status external_id=51393382 -> active
+2026-05-13 18:33:46 [INFO] app.services.payment_processor: CryptoBot status external_id=51393625 -> active
+2026-05-13 18:33:46 [INFO] app.services.payment_processor: CryptoBot status external_id=51394050 -> active
+2026-05-13 18:33:47 [INFO] app.services.payment_processor: CryptoBot status external_id=51397506 -> active
+2026-05-13 18:33:47 [INFO] app.services.payment_processor: CryptoBot status external_id=51408057 -> active
+2026-05-13 18:33:47 [INFO] app.services.payment_processor: CryptoBot status external_id=51416204 -> active
+2026-05-13 18:33:48 [INFO] app.services.payment_processor: CryptoBot status external_id=51457026 -> active

@@ -1,0 +1,1398 @@
+{
+  "backup_at": "20260513_150926",
+  "user_count": 27,
+  "users": [
+    {
+      "uuid": "a7a71998-32e0-48e4-9553-060a4a97d0a2",
+      "id": 54,
+      "short_uuid": "AVaUSCUoRZmo1NpV",
+      "username": "Kis22",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-10 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "KVfuXUKrT7GTXvBYHX5fwnKmUVsmsB3y",
+      "vless_uuid": "3bfe9e36-e360-4237-9b77-f1aa13ad730f",
+      "ss_password": "zTXK8pUTssmML9LQ8cx7SqUmmEnBAvK5",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-09 16:47:01.923000+00:00",
+      "updated_at": "2026-05-11 16:06:06.532000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/AVaUSCUoRZmo1NpV",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 222446153.0,
+        "lifetime_used_traffic_bytes": 222446153.0,
+        "online_at": "2026-05-13 15:05:15.084000+00:00",
+        "first_connected_at": "2026-05-09 16:51:00.031000+00:00",
+        "last_connected_node_uuid": "9fe56556-6a7b-489d-bd2f-44fd1523b279"
+      }
+    },
+    {
+      "uuid": "8169c972-0b42-4bf6-b2d3-ff3d65470a0a",
+      "id": 51,
+      "short_uuid": "106xMwKm5jqPP3d2",
+      "username": "Service_User_7",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 0,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2099-05-07 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "Poland VPN_2",
+      "tag": null,
+      "hwid_device_limit": null,
+      "external_squad_uuid": null,
+      "trojan_password": "YdyFcpP_n3gLzwT1hVR24QRYay1132kS",
+      "vless_uuid": "b178e8d4-d9cd-4090-96de-0b6d7e2609b5",
+      "ss_password": "10FKdrw5ycaPc6-_GtpCkKjKVYJrdA_B",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-06 21:21:56.575000+00:00",
+      "updated_at": "2026-05-06 21:22:50.845000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/106xMwKm5jqPP3d2",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 0.0,
+        "online_at": null,
+        "first_connected_at": null,
+        "last_connected_node_uuid": null
+      }
+    },
+    {
+      "uuid": "255b99a8-c4bd-4bb5-83ef-8faa144a3e73",
+      "id": 50,
+      "short_uuid": "5-xyDr7UCG-YZGjs",
+      "username": "Service_User_6",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 0,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2099-05-07 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "Poland VPN_1",
+      "tag": null,
+      "hwid_device_limit": null,
+      "external_squad_uuid": null,
+      "trojan_password": "5o252re6KLntTaqqapdAt5zBDzmqwP95",
+      "vless_uuid": "9daeb7d1-ff71-4a6e-97f9-0d42d5624d25",
+      "ss_password": "WCPYAGdFe9t9-L25CsEYce4mbNSSABCk",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-06 21:21:31.495000+00:00",
+      "updated_at": "2026-05-06 21:21:31.495000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/5-xyDr7UCG-YZGjs",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 0.0,
+        "online_at": null,
+        "first_connected_at": null,
+        "last_connected_node_uuid": null
+      }
+    },
+    {
+      "uuid": "1567b199-508f-45a0-b95d-f0b78c280bd9",
+      "id": 49,
+      "short_uuid": "Gos0Zy8PUK0n9JwP",
+      "username": "Service_User_5",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 0,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2099-05-07 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "Germany VPN",
+      "tag": null,
+      "hwid_device_limit": null,
+      "external_squad_uuid": null,
+      "trojan_password": "zEZRecmFhbwkMFfcRYwHvwg_3a_QPPw_",
+      "vless_uuid": "1f7c0537-4c0e-45b4-b506-b7ddd3793e7a",
+      "ss_password": "f5Y2NXJxKQqkwZQANc4_o6zUE7jw0CBx",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-06 21:15:32.116000+00:00",
+      "updated_at": "2026-05-06 21:20:59.456000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/Gos0Zy8PUK0n9JwP",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 0.0,
+        "online_at": "2026-05-13 15:09:15.037000+00:00",
+        "first_connected_at": "2026-05-07 11:02:15.025000+00:00",
+        "last_connected_node_uuid": "12f81fbc-a121-4b40-a6a5-3f03ad4462fb"
+      }
+    },
+    {
+      "uuid": "743ab335-638a-4405-9728-06063758bc61",
+      "id": 48,
+      "short_uuid": "GhLnQyZsrdjAJsPQ",
+      "username": "Service_User_4",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 0,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2099-05-07 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "Sweden_VPN",
+      "tag": null,
+      "hwid_device_limit": null,
+      "external_squad_uuid": null,
+      "trojan_password": "Yw3HB9NA9QRR4qjRxdpskBgKrq5nQFfR",
+      "vless_uuid": "5e95be55-4810-471d-ace9-9964be273da7",
+      "ss_password": "ezKbJ0gwe77XaF9C0jzcm1cw0yty6Z-P",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-06 21:14:59.204000+00:00",
+      "updated_at": "2026-05-06 21:20:45.964000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/GhLnQyZsrdjAJsPQ",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 0.0,
+        "online_at": null,
+        "first_connected_at": null,
+        "last_connected_node_uuid": null
+      }
+    },
+    {
+      "uuid": "da61db55-89cb-4c43-9c7c-e2e946113cf6",
+      "id": 47,
+      "short_uuid": "3-RGZaXwSaoxWyvN",
+      "username": "Service_User_3",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 0,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2099-05-07 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "Austria VPN",
+      "tag": null,
+      "hwid_device_limit": null,
+      "external_squad_uuid": null,
+      "trojan_password": "9uFNyN4t0K6V8N_2BokUzNKENSDsM2R9",
+      "vless_uuid": "4a0f5be1-ec48-4b49-875c-77dc728ada4a",
+      "ss_password": "V2QZn8W4_ueLjF4MutvhxCE0JbcGga9A",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-06 21:14:32.576000+00:00",
+      "updated_at": "2026-05-06 21:20:21.056000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/3-RGZaXwSaoxWyvN",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 0.0,
+        "online_at": null,
+        "first_connected_at": null,
+        "last_connected_node_uuid": null
+      }
+    },
+    {
+      "uuid": "859b5db3-43ae-4bf5-a238-5e98c0765a8d",
+      "id": 46,
+      "short_uuid": "TQ2HD-0E2MuQKUJ1",
+      "username": "Service_User_2",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 0,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2099-05-06 21:13:59+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "Russia VPN",
+      "tag": null,
+      "hwid_device_limit": null,
+      "external_squad_uuid": null,
+      "trojan_password": "GjX6f8fJ9sDuqAtkeW944KU222o22t3V",
+      "vless_uuid": "88e9cf36-50d7-4030-8118-b76ef5f5b59b",
+      "ss_password": "SB7x3Ejv-D64j4VtUsmmJshmE1v7syfa",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-06 21:14:08.313000+00:00",
+      "updated_at": "2026-05-06 21:18:14.301000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/TQ2HD-0E2MuQKUJ1",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 0.0,
+        "online_at": "2026-05-13 15:01:00.099000+00:00",
+        "first_connected_at": "2026-05-06 21:17:45.062000+00:00",
+        "last_connected_node_uuid": "5dfbe2a0-2e36-4026-993c-7e00f2ec9cb3"
+      }
+    },
+    {
+      "uuid": "d34626f8-8c3d-4013-8527-ed8b1570122d",
+      "id": 45,
+      "short_uuid": "QT6ZAhRu5mYasLWH",
+      "username": "Servise_User",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 0,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2099-05-06 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "Netherlands VPN",
+      "tag": null,
+      "hwid_device_limit": null,
+      "external_squad_uuid": null,
+      "trojan_password": "SvwvFX_xJA0_uD-zvazSpBEXNtH-KWcW",
+      "vless_uuid": "c33e3f8c-42f1-4f38-a643-da590dba1ccd",
+      "ss_password": "AdhbQXXVvspG0E627PC4-oMnXsbS5scR",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-06 20:30:41.660000+00:00",
+      "updated_at": "2026-05-06 21:18:06.189000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/QT6ZAhRu5mYasLWH",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 0.0,
+        "online_at": "2026-05-13 15:09:15.044000+00:00",
+        "first_connected_at": "2026-05-06 20:38:00.060000+00:00",
+        "last_connected_node_uuid": "64b681fc-f7cd-4c48-91b6-8b3fa4691553"
+      }
+    },
+    {
+      "uuid": "e0bd6ad9-b318-4734-8f3c-0bb606f65620",
+      "id": 44,
+      "short_uuid": "0-zffwoum4bnjjMT",
+      "username": "k_l_y_e_v",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-09 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "mEnQwYLG3vCvK9MTQUrd6V9q8ef-YL5L",
+      "vless_uuid": "5829097f-f9a0-47d0-a439-1aca9f67bea3",
+      "ss_password": "9dPnaAATo0vZdFQWms2BdQd8TXUF1eX_",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-09 10:56:09.569000+00:00",
+      "created_at": "2026-05-06 05:33:05.812000+00:00",
+      "updated_at": "2026-05-11 16:07:23.160000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/0-zffwoum4bnjjMT",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 7708734496.0,
+        "lifetime_used_traffic_bytes": 12177591575.0,
+        "online_at": "2026-05-13 15:09:15.092000+00:00",
+        "first_connected_at": "2026-05-06 08:07:45.034000+00:00",
+        "last_connected_node_uuid": "9fe56556-6a7b-489d-bd2f-44fd1523b279"
+      }
+    },
+    {
+      "uuid": "6fdb929a-e199-4b1b-8b76-3dcc0a16fd3f",
+      "id": 43,
+      "short_uuid": "p-2cU60Hegp3FmTx",
+      "username": "AVV",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 64424509440,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-08-04 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 5,
+      "external_squad_uuid": null,
+      "trojan_password": "EW0sRvcTQBmejn7cvAtJYqHyu81eMKX5",
+      "vless_uuid": "0e19c3b4-2e39-4f36-a757-f588ee94ca15",
+      "ss_password": "92JvkzdgmLGTX3VrzZd-_pW9K5HHePP0",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-05-03 13:52:07.661000+00:00",
+      "updated_at": "2026-05-11 16:07:31.951000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/p-2cU60Hegp3FmTx",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 4737358.0,
+        "lifetime_used_traffic_bytes": 4737358.0,
+        "online_at": "2026-05-13 15:08:45.061000+00:00",
+        "first_connected_at": "2026-05-03 15:09:45.080000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "0aa744d5-032e-4a60-b1d2-717313001ee6",
+      "id": 42,
+      "short_uuid": "9xh9ugvwwdCxZfck",
+      "username": "Suzikoov",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "hTCJ3u1WjJf2_aHdupp6LxFhud9E5W6X",
+      "vless_uuid": "bbb803bd-49c9-4d6b-a549-155e72c70d96",
+      "ss_password": "xeCSSPSLHaV_5xe7HN478kKn762qqmwa",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": null,
+      "created_at": "2026-04-29 14:15:37.522000+00:00",
+      "updated_at": "2026-05-11 16:07:36.449000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/9xh9ugvwwdCxZfck",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 4982785.0,
+        "lifetime_used_traffic_bytes": 4982785.0,
+        "online_at": "2026-05-13 15:08:00.072000+00:00",
+        "first_connected_at": "2026-04-29 16:21:15.034000+00:00",
+        "last_connected_node_uuid": "64b681fc-f7cd-4c48-91b6-8b3fa4691553"
+      }
+    },
+    {
+      "uuid": "f731ac7e-5501-46bd-9403-01a65c840582",
+      "id": 40,
+      "short_uuid": "vC9_v8EYX-jZC6-v",
+      "username": "ExhiBeer",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-02 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "oe0GEF4rVn_hzDMyyK0sZA3yQccbLw_S",
+      "vless_uuid": "2447a652-f92c-4917-905b-c2c1b5a72e3b",
+      "ss_password": "7PekNpuoP_kKUKegdGVpuTEUjY2mQJBA",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-27 12:21:19.668000+00:00",
+      "updated_at": "2026-05-11 16:07:42.871000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/vC9_v8EYX-jZC6-v",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 204380.0,
+        "lifetime_used_traffic_bytes": 180592799.0,
+        "online_at": "2026-05-13 06:01:00.050000+00:00",
+        "first_connected_at": "2026-04-28 09:57:30.049000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "0089e576-a446-4442-9996-ba0460b336ff",
+      "id": 39,
+      "short_uuid": "Dv0sfZ0kpErQvrWC",
+      "username": "Deosjsk",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 3,
+      "external_squad_uuid": null,
+      "trojan_password": "HupZvuWtJaPRKMR1K2qYgRUPCeMd2TfL",
+      "vless_uuid": "f975db96-138b-4196-9257-4ab189ca6fd8",
+      "ss_password": "opSq0-GBACrT15At-QyeuZwr_46MJ1AF",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": "2026-05-09 11:40:50.386000+00:00",
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-23 20:01:42.173000+00:00",
+      "updated_at": "2026-05-11 16:07:51.308000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/Dv0sfZ0kpErQvrWC",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 436884.0,
+        "lifetime_used_traffic_bytes": 11622800372.0,
+        "online_at": "2026-05-13 15:03:30.046000+00:00",
+        "first_connected_at": "2026-04-23 20:03:00.145000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "943f02d8-a4ec-461f-90ce-3f8bc0eabef9",
+      "id": 38,
+      "short_uuid": "VtGWn2AC5xkutD-q",
+      "username": "DashenkaRa",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-05-29 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "jWznv4bw1D-K0kcUpdLCRH3kdRU4AmSh",
+      "vless_uuid": "0a46e540-302e-4782-8449-65eb6249f265",
+      "ss_password": "fg4-wAzjhTMd6pygvKFtgDMQgEMMEDwS",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-23 10:23:14.259000+00:00",
+      "updated_at": "2026-05-11 16:07:55.826000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/VtGWn2AC5xkutD-q",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 72.0,
+        "lifetime_used_traffic_bytes": 6580779482.0,
+        "online_at": "2026-05-13 14:31:30.196000+00:00",
+        "first_connected_at": "2026-04-23 11:34:00.051000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "d330b7ce-f33e-464d-be46-3cf0be7c108a",
+      "id": 37,
+      "short_uuid": "RUo5CSJ17bgH5V0A",
+      "username": "Allik77",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 42949672960,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-05-29 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 5,
+      "external_squad_uuid": null,
+      "trojan_password": "dAX91U_Ue_utGBuAjP35c1-5AmdYfj-_",
+      "vless_uuid": "a439b93f-3129-4c8d-b0b6-130930e28349",
+      "ss_password": "M5tHHzfgkbZGp5m_scGdukC261vGTE7c",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-02 23:59:06.732000+00:00",
+      "created_at": "2026-04-19 09:05:52.423000+00:00",
+      "updated_at": "2026-05-11 16:08:02.189000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/RUo5CSJ17bgH5V0A",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 11171573413.0,
+        "lifetime_used_traffic_bytes": 16161224795.0,
+        "online_at": "2026-05-13 15:09:15.086000+00:00",
+        "first_connected_at": "2026-04-19 09:08:30.074000+00:00",
+        "last_connected_node_uuid": "b4ca5232-6f73-445c-873e-0632ef07bc9b"
+      }
+    },
+    {
+      "uuid": "a0b882ad-531b-46ff-8ce9-220c206fce53",
+      "id": 23,
+      "short_uuid": "oNYpLpx7CrSrAmYB",
+      "username": "MakarenkovKonstantin",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-05-21 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "5zQkYyU7qxm3-LS2D5ofv7LgY7qZA4JZ",
+      "vless_uuid": "fb2ef182-c8db-4c69-b342-8cf20860894a",
+      "ss_password": "K9Da_H0ECxScrL3qQmQyoQ0Zd1gJ7Kxr",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-16 09:05:37.176000+00:00",
+      "updated_at": "2026-05-11 16:08:06.472000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/oNYpLpx7CrSrAmYB",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 31774696682.0,
+        "online_at": "2026-05-13 06:43:15.033000+00:00",
+        "first_connected_at": "2026-04-16 09:13:30.098000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "a12cf053-1ab1-4b48-b6dc-81eb26450bdc",
+      "id": 22,
+      "short_uuid": "J2MfQAgQ1DV9VJoB",
+      "username": "Aleksandr",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-05-17 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "nUnzQM8RS-AoQL5TQ2etz2fM5HXSCpN_",
+      "vless_uuid": "f14e03cc-c9b6-482a-af91-1d52596467a7",
+      "ss_password": "-C3kUkau130UrMywEKAs_NsoX8fg_CfZ",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-14 08:24:09.461000+00:00",
+      "updated_at": "2026-05-11 16:08:12.318000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/J2MfQAgQ1DV9VJoB",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 264539.0,
+        "lifetime_used_traffic_bytes": 1795006785.0,
+        "online_at": "2026-05-13 15:04:45.041000+00:00",
+        "first_connected_at": "2026-04-14 08:26:45.032000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "3fa4a813-9ce1-40c3-b308-073e6f2e74bf",
+      "id": 21,
+      "short_uuid": "_yQ7BnYDV_oRc8v4",
+      "username": "roman00518",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-05-15 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "dGm-be5NPK2mS_Ckd9VXhLkB118K-S8L",
+      "vless_uuid": "bf169310-4142-40c1-95e8-c8fe4a58c91c",
+      "ss_password": "E5c_c07s1VsEYUcTbTbBPKYNMv5BYJwN",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-02 23:59:54.125000+00:00",
+      "created_at": "2026-04-12 12:35:03.331000+00:00",
+      "updated_at": "2026-05-11 16:08:19.087000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/_yQ7BnYDV_oRc8v4",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 9658314287.0,
+        "lifetime_used_traffic_bytes": 64213742778.0,
+        "online_at": "2026-05-13 11:05:30.055000+00:00",
+        "first_connected_at": "2026-04-12 12:36:15.050000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "2a9e0906-8c1b-41a8-b6cd-b08e51b7d576",
+      "id": 20,
+      "short_uuid": "TRZgtF0N4hRPGFwb",
+      "username": "meoowmeowwo",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "jvHw0gsnRFRNnrVpuAbe_BCVk7fnPL1v",
+      "vless_uuid": "9ca5277c-0bf1-4b75-89c8-95080d2e0427",
+      "ss_password": "BS_pQKyD6o37Y580oLwGm2QbM023DuAG",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 12:13:32.040000+00:00",
+      "created_at": "2026-04-10 13:31:13.242000+00:00",
+      "updated_at": "2026-05-12 18:26:26.109000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/TRZgtF0N4hRPGFwb",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 13146410.0,
+        "lifetime_used_traffic_bytes": 92317138865.0,
+        "online_at": "2026-05-13 15:08:30.089000+00:00",
+        "first_connected_at": "2026-04-10 13:33:00.052000+00:00",
+        "last_connected_node_uuid": "8f6a0179-c101-46a3-8825-8142b77834b5"
+      }
+    },
+    {
+      "uuid": "16fa3416-08b5-4820-89e2-282f6499e8f7",
+      "id": 15,
+      "short_uuid": "scjJ-1pf-fUswkk6",
+      "username": "annet_mashina",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "KEdb76SkR6LKKRXNqMefrcYv_Zz-t3VK",
+      "vless_uuid": "971fc5b1-5125-4437-96fa-6c036691010b",
+      "ss_password": "KQdhZJZbPat7wR8N1PHoQXn7f_2NdCMt",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-06 14:18:34.112000+00:00",
+      "updated_at": "2026-05-11 16:08:26.677000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/scjJ-1pf-fUswkk6",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 13870244.0,
+        "lifetime_used_traffic_bytes": 76214132134.0,
+        "online_at": "2026-05-13 15:05:30.075000+00:00",
+        "first_connected_at": "2026-04-06 19:09:30.076000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "ec4d05c3-0a3a-49b9-8863-8aaf6365689c",
+      "id": 14,
+      "short_uuid": "SUtRQcCraCGn0BUG",
+      "username": "dinya_92",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 3,
+      "external_squad_uuid": null,
+      "trojan_password": "ekatqQbHk0k_PNUerUZfNmj6_rAo5hnf",
+      "vless_uuid": "b034a7c5-2972-4a40-a0ba-6060c8961cce",
+      "ss_password": "eFZc2fMQ0DsHm_u5r3JJCX_8Ez9xhcwq",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-06 14:17:58.798000+00:00",
+      "updated_at": "2026-05-11 16:08:32.064000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/SUtRQcCraCGn0BUG",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 12346141.0,
+        "lifetime_used_traffic_bytes": 51425203432.0,
+        "online_at": "2026-05-13 15:09:15.042000+00:00",
+        "first_connected_at": "2026-04-09 07:49:15.039000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "30c384d1-6d43-4be2-b879-68e46917a0cf",
+      "id": 13,
+      "short_uuid": "XkDbwpkTPRBB05hv",
+      "username": "T_paBa",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "KN2p-9ytZzhZ-tbJczsYYURTCVrwDTBk",
+      "vless_uuid": "bf02804d-62bf-4246-9001-8fc4c84d1eaf",
+      "ss_password": "HvBRzNAbosezBS-xMT54nE2Nunq02KUx",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-01 13:51:31.626000+00:00",
+      "created_at": "2026-04-06 14:17:34.753000+00:00",
+      "updated_at": "2026-05-11 16:08:36.110000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/XkDbwpkTPRBB05hv",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 119667760.0,
+        "lifetime_used_traffic_bytes": 10357921491.0,
+        "online_at": "2026-05-12 13:27:15.038000+00:00",
+        "first_connected_at": "2026-04-07 05:16:15.065000+00:00",
+        "last_connected_node_uuid": "64b681fc-f7cd-4c48-91b6-8b3fa4691553"
+      }
+    },
+    {
+      "uuid": "a22a44f6-ee65-48e4-a2a8-e5f7b1e0e0b3",
+      "id": 12,
+      "short_uuid": "7ETTJMCYmjYCnnRn",
+      "username": "SmartRoom",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 3,
+      "external_squad_uuid": null,
+      "trojan_password": "KYNZvd_42MtCVn_LFex4sepoKQj99y1v",
+      "vless_uuid": "955d027c-11fe-431c-af16-9b373a6baae7",
+      "ss_password": "2SWkxa85RCbHgHeXTLqv7QvfYNmW3ghJ",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-01 13:54:30.625000+00:00",
+      "created_at": "2026-04-06 14:16:57.567000+00:00",
+      "updated_at": "2026-05-03 00:00:39.599000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/7ETTJMCYmjYCnnRn",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 0.0,
+        "lifetime_used_traffic_bytes": 23151813469.0,
+        "online_at": "2026-05-13 15:09:15.042000+00:00",
+        "first_connected_at": "2026-04-08 08:02:00.045000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "b06a4e5b-311a-40d9-8e00-8213d7c4a751",
+      "id": 10,
+      "short_uuid": "0oaP8u99NJSB5tvH",
+      "username": "amelkin",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 42949672960,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": null,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 10,
+      "external_squad_uuid": null,
+      "trojan_password": "WV5bp-4gfRys3u4P0adetVYBm3BjJMLy",
+      "vless_uuid": "69603ca8-718a-470f-98ba-b424002ef6da",
+      "ss_password": "o3HdVd47kwZ2fk7UdySfYwyj_VYe1N8n",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-01 13:54:24.072000+00:00",
+      "created_at": "2026-04-06 10:17:08.593000+00:00",
+      "updated_at": "2026-05-11 16:08:44.102000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/0oaP8u99NJSB5tvH",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 1658745629.0,
+        "lifetime_used_traffic_bytes": 29280230205.0,
+        "online_at": "2026-05-13 15:01:00.076000+00:00",
+        "first_connected_at": "2026-04-06 10:20:30.086000+00:00",
+        "last_connected_node_uuid": "d9920708-d9e3-4759-97a1-d76b7e189484"
+      }
+    },
+    {
+      "uuid": "95569fdc-db4e-432e-b5e3-efc99165cc52",
+      "id": 5,
+      "short_uuid": "2mk_rGkVRPXTMJjD",
+      "username": "bogemnyj",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": 404683971,
+      "email": null,
+      "description": "Drug",
+      "tag": null,
+      "hwid_device_limit": 3,
+      "external_squad_uuid": null,
+      "trojan_password": "w5S8YHgJ5v0QZTn2cmot3UGKvNmR_ZVj",
+      "vless_uuid": "e41bbcd1-3d81-475a-88d2-cb6e634c0be7",
+      "ss_password": "2HZB3sm-pdMN6_wxv3WZd2-poGHHzksX",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": "2026-05-06 19:47:12.529000+00:00",
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-07 08:07:49.298000+00:00",
+      "created_at": "2026-04-03 18:20:00.310000+00:00",
+      "updated_at": "2026-05-11 16:08:50.349000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/2mk_rGkVRPXTMJjD",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 810706875.0,
+        "lifetime_used_traffic_bytes": 348376033014.0,
+        "online_at": "2026-05-13 15:09:15.042000+00:00",
+        "first_connected_at": "2026-04-03 18:23:15.092000+00:00",
+        "last_connected_node_uuid": "b12b4f1c-11c7-44e7-a706-3b967423f2f9"
+      }
+    },
+    {
+      "uuid": "774ceef4-a60e-4317-ba5d-987aeb55d111",
+      "id": 4,
+      "short_uuid": "_qS_FJBv2Ch5koVg",
+      "username": "jont4n",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 21474836480,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2026-06-01 09:00:00+00:00",
+      "telegram_id": 305310548,
+      "email": null,
+      "description": "jont4n",
+      "tag": null,
+      "hwid_device_limit": 2,
+      "external_squad_uuid": null,
+      "trojan_password": "MX5Jk0-0-90rWNTEmkVXhyocXjvne9KK",
+      "vless_uuid": "31592978-2f56-4954-a8a4-222d510ea550",
+      "ss_password": "cADF5V51yJ4vepKSN9NZJ1415WyuPAGz",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-04-28 10:51:59.845000+00:00",
+      "created_at": "2026-04-03 18:12:10.976000+00:00",
+      "updated_at": "2026-05-11 16:08:55.305000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/_qS_FJBv2Ch5koVg",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 8087893126.0,
+        "lifetime_used_traffic_bytes": 56905435281.0,
+        "online_at": "2026-05-13 15:07:45.043000+00:00",
+        "first_connected_at": "2026-04-03 18:17:00.105000+00:00",
+        "last_connected_node_uuid": "484c501e-bce7-4d97-ae67-b916f5a74e19"
+      }
+    },
+    {
+      "uuid": "60965e33-601f-4670-8696-882be38aac3b",
+      "id": 3,
+      "short_uuid": "fVgVPA9hhtCZuFuF",
+      "username": "romcheeeeeg",
+      "status": "ACTIVE",
+      "traffic_limit_bytes": 42949672960,
+      "traffic_limit_strategy": "NO_RESET",
+      "expire_at": "2027-05-01 09:00:00+00:00",
+      "telegram_id": 1098835498,
+      "email": null,
+      "description": "",
+      "tag": null,
+      "hwid_device_limit": 5,
+      "external_squad_uuid": null,
+      "trojan_password": "Sn9DECCF5MzS62GMuMYDufVc0hdqrB44",
+      "vless_uuid": "42f902b9-229e-476a-9b18-35d9a2f40c02",
+      "ss_password": "vSoS68VeBuN35TDKGurKvs7PXWB0MY8C",
+      "last_trigger_threshold": 0,
+      "sub_revoked_at": null,
+      "sub_last_user_agent": null,
+      "sub_last_opened_at": null,
+      "last_traffic_reset_at": "2026-05-01 13:52:09.774000+00:00",
+      "created_at": "2026-04-03 14:50:05.761000+00:00",
+      "updated_at": "2026-05-12 18:26:20.014000+00:00",
+      "subscription_url": "https://sub.ghostroute.site/fVgVPA9hhtCZuFuF",
+      "active_internal_squads": [
+        {
+          "uuid": "dbba8fdf-746b-4b05-ae24-03c2363e15ef",
+          "name": "Base Connect"
+        },
+        {
+          "uuid": "481ab96d-4bd0-4ce9-a74a-77958d0e4c81",
+          "name": "Speed Connect"
+        },
+        {
+          "uuid": "67352192-8639-4c41-82a2-3da3ad1f782a",
+          "name": "YouTube Connect"
+        },
+        {
+          "uuid": "b2bc47df-6bb7-4e84-b881-452c06033fee",
+          "name": "White Connect"
+        }
+      ],
+      "user_traffic": {
+        "used_traffic_bytes": 1876499998.0,
+        "lifetime_used_traffic_bytes": 225464338891.0,
+        "online_at": "2026-05-13 15:09:15.048000+00:00",
+        "first_connected_at": "2026-04-03 16:19:15.094000+00:00",
+        "last_connected_node_uuid": "484c501e-bce7-4d97-ae67-b916f5a74e19"
+      }
+    }
+  ]
+}
