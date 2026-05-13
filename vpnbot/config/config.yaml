@@ -1,0 +1,45 @@
+bot:
+  token: "8640195811:AAFYMyxXD-69DhIO66op-A808Z1SKiqynvQ"
+  username: "vpnn_botts_bot"
+  admins:
+    - 869598289  # Add your Telegram ID
+    - 1169279425
+    - 1098835498
+remnawave:
+  base_url: "https://your-panel.example.com"
+  api_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiNjFhNzc0ZWQtMTNlNy00YzYwLWJiZjYtZTYwYWI2ZWE0YzA0IiwidXNlcm5hbWUiOm51bGwsInJvbGUiOiJBUEkiLCJpYXQiOjE3NzU0Mjk2NzYsImV4cCI6MTA0MTUzNDMyNzZ9.l6qQMr8ZcPs_Mv7qk5Cv_2KofCApnnxb982zUtG0MSk"
+
+payments:
+  yukassa:
+    enabled: true
+    shop_id: "1356591"
+    secret_key: "test_EdyPrQmeggxxlmZPdmfGP-PKG-wWwd7hvXobRdw6eRQ"
+  cryptobot:
+    enabled: true
+    token: "562989:AAy6aV8cmbZeOx1JZeI2lIkaziqAuJI32uP"
+    network: "mainnet"  # or testnet
+
+links:
+  channel: "https://t.me/ghostroutevpn"
+  channel_id: "@somechannel"  # Numeric channel ID
+  support: "https://t.me/romcheeeeeg"
+  reviews: "https://t.me/-"
+
+features:
+  trial_enabled: true
+  trial_days: 3
+  referral_enabled: true
+
+database:
+  url: "sqlite+aiosqlite:///./data/bot.db"
+  # For PostgreSQL: "postgresql+asyncpg://user:pass@localhost/dbname"
+
+logging:
+  level: "INFO"
+  file: "logs/bot.log"
+
+scheduler:
+  backup_interval_hours: 24
+  inactive_delete_days: 3   # days after sub ends before panel deletion
+  backup_keep_count: 7
+  backup_dir: "backups"
